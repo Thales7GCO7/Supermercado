@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-            CashierSystem cashierSystem = new CashierSystem();
+            SistemaCaixa cashierSystem = new SistemaCaixa();
             cashierSystem.run();
     }
 }

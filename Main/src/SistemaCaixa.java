@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class CashierSystem {
+public class SistemaCaixa {
     private ArrayList <Produto> carrinho = new ArrayList<>();
     private Scanner scanner = new Scanner(System.in);
 

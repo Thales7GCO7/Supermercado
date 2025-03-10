@@ -5,7 +5,7 @@ Este é um projeto simples de um sistema de caixa de supermercado em Java. Ele p
 ## Como Executar
 1. Clone este repositório.
 2. Abra o projeto em uma IDE Java (como IntelliJ ou Eclipse).
-3. Execute a classe `CashierSystem`.
+3. Execute a classe `SistemaCaixa`.
 
 ## Funcionalidades
 - Adicionar produtos ao carrinho.
